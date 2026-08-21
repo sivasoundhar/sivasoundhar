@@ -17,7 +17,7 @@
 
 | | | |
 |---|---|---|
-| 💭 | **Experienced on** | Design, CAE & Simulation Engineering |
+| 💭 | **Experienced on** | Design, CAE & Simulation Engineering, Healthcare |
 | 🧠 | **Currently building** | Agentic AI — Multi-Agent Pipelines, Adaptive RAG, Medical Imaging |
 | 🤝 | **Collaborating on** | Anything exciting! |
 | 📬 | **Contact** | [sivasoundhar93@gmail.com](mailto:sivasoundhar93@gmail.com) |
