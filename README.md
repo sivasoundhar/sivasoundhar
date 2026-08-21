@@ -25,8 +25,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivasoundhar&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasoundhar&layout=compact&langs_count=8&hide_border=true&title_color=00b4d8" alt="top languages" />
+  <img src="https://github-readme-stats-six-seven.vercel.app/api?username=sivasoundhar&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8" alt="stats" />
+  <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=sivasoundhar&layout=compact&langs_count=8&hide_border=true&title_color=00b4d8" alt="top languages" />
 </p>
 
 <p align="center">
