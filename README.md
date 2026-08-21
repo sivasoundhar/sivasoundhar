@@ -11,14 +11,14 @@
 
 ## 👨‍💻 About Me
 
-💡 Passionate about **AI, Automation, and Engineering**
+💡 Engineer working across **Design, CAE, and AI** — spanning automotive and healthcare
 
-✨ Exploring how AI and Python can build smarter, faster systems
+✨ Currently building agentic AI systems: multi-agent clinical pipelines, adaptive RAG, and medical imaging models
 
 | | | |
 |---|---|---|
-| 💭 | **Experienced on** | Simulation & CAE Engineering |
-| 🧠 | **Currently working on** | AI Engineering — Agentic Systems, RAG, Healthcare AI |
+| 💭 | **Experienced on** | Design, CAE & Simulation Engineering |
+| 🧠 | **Currently building** | Agentic AI — Multi-Agent Pipelines, Adaptive RAG, Medical Imaging |
 | 🤝 | **Collaborating on** | Anything exciting! |
 | 📬 | **Contact** | [sivasoundhar93@gmail.com](mailto:sivasoundhar93@gmail.com) |
 
