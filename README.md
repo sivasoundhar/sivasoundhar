@@ -24,9 +24,22 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasoundhar&theme=react-dark&hide_border=true&area=true&line=00b4d8&color=00b4d8&point=ffffff&bg_color=00000000" alt="activity graph" width="100%" />
-</p>
+## 🚀 Featured Projects
+
+### 🧬 UniRAG — Adaptive Agentic RAG Platform
+Production-shaped RAG engine: hybrid BM25 + dense retrieval, cross-encoder rerank, LangGraph agentic routing, Groq/Ollama fallback gateway.
+`LangGraph` `ChromaDB` `FastAPI` `Groq` `Ollama` `Docker`
+**[→ Repository](https://github.com/sivasoundhar/UniRAG)**
+
+### 🩺 PatientShield-AI — Multi-Agent Clinical Document Intelligence
+Four specialized agents (PHI detection, de-identification, clinical analysis, QA verification) under a LangGraph supervisor, with a full audit trail.
+`LangGraph` `FastAPI` `SQLite` `Docker`
+**[→ Repository](https://github.com/sivasoundhar/PatientShield-AI)**
+
+### 🫁 Medical Imaging AI Copilot
+Dual-modality diagnostic prototype — chest X-ray classification with Grad-CAM explainability, and 3D CT nodule detection, with an LLM copilot layer explaining findings.
+`PyTorch` `FastAPI` `React` `Grad-CAM`
+**[→ Repository](https://github.com/sivasoundhar/medical-imaging-ai-copilot)**
 
 ---
 
