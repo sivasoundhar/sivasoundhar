@@ -11,11 +11,8 @@
 
 ## About Me
 
-Seven years of simulating whether physical structures will fail. Now building AI systems that reason about clinical data — with the same discipline: **validate empirically, quantify the failure modes, never ship a number you can't defend.**
-
 | | | |
 |---|---|---|
-| 💭 | **Experienced on** | Static, Durability, NVH & Nonlinear CAE — BIW, Closures, Interiors |
 | 🧠 | **Currently building** | Healthcare AI — agentic RAG, multi-agent clinical pipelines, medical imaging |
 | 🏥 | **Domain focus** | Medical & healthcare AI — clinical documents, diagnostic imaging, HIPAA-aware design |
 | ⚙️ | **Bridging** | Physics-based simulation ↔ Generative AI |
@@ -108,20 +105,6 @@ Multi-clinician access control with a full HIPAA-style audit trail.
 ![FEMFAT](https://img.shields.io/badge/FEMFAT-4A7C59?style=flat-square)
 ![ANSA](https://img.shields.io/badge/ANSA-7B2D8E?style=flat-square)
 ![HyperMesh](https://img.shields.io/badge/HyperMesh-1F4E79?style=flat-square)
-
----
-
-## Engineering Background
-
-**Assistant Manager – CAE** with 7+ years across Segula Technologies, Mercedes-Benz and Expleo Solutions.
-
-- Static, Durability, NVH and Nonlinear analysis for OEM programs
-- FE modeling of BIW, closures, interiors and exteriors — spot, seam, adhesive and bolted joints
-- CAE–test correlation, root cause analysis on stiffness/deformation/frequency deviations
-- Achieved 15% deformation reduction through load-path optimization; 20% stress reduction on welded panel assemblies
-- Cut FE preparation time by 20% through workflow and connection-modeling standardization
-
-*Why this matters for AI:* correlating a simulation against physical test data is the same problem as evaluating a model against ground truth. I've spent seven years learning not to trust a result until it's validated.
 
 ---
 
