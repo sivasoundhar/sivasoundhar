@@ -43,6 +43,12 @@ Dual-modality diagnostic prototype — chest X-ray classification with Grad-CAM 
 
 ---
 
+## 📜 Certifications
+
+- 🧬 **CITI Program — Human Research (Data or Specimens Only Research)**, MIT Affiliates — research ethics training for working responsibly with human-derived data, backing the healthcare AI work above.
+
+---
+
 ### 🚀 Designing Intelligent Systems with AI, Automation & Engineering Expertise.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=120&section=footer" alt="footer" />
